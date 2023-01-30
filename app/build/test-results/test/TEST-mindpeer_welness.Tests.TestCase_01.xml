@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mindpeer_welness.Tests.TestCase_01" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-30T16:58:06" hostname="LAPTOP-WI11HSSD" time="22.113">
+  <properties/>
+  <testcase name="TestCase01" classname="mindpeer_welness.Tests.TestCase_01" time="22.113"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
